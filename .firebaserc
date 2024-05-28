@@ -1,7 +1,8 @@
 {
   "projects": {
     "default": "lab-7-staging-env",
-    "staging": "lab-7-staging-env"
+    "staging": "lab-7-staging-env",
+    "production": "lab-7-production--env"
   },
   "targets": {},
   "etags": {},
