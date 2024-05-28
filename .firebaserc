@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "lab-7-staging-env",
+    "default": "lab-7-production--env",
     "staging": "lab-7-staging-env",
     "production": "lab-7-production--env"
   },
