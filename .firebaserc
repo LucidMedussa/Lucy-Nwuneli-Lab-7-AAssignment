@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "lab-7--testing-env"
-  }
+    "default": "lab-7-staging-env",
+    "staging": "lab-7-staging-env"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
